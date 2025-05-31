@@ -1,6 +1,6 @@
-Here's a comprehensive README.md for your Employee-Management-System project, covering Spring Boot, React, MySQL, and AWS deployment.
 
 Employee-Management-System
+
 An intuitive web application designed to efficiently manage employee data within an organization. This system provides a robust backend API for data operations and a dynamic, responsive frontend for user interaction.
 
 🚀 Features
